@@ -1067,19 +1067,19 @@
   integrity sha512-dyIGFKXfUFiwkMfNGn1+F6b80ZjR3uSYv1j6xVJSDlft5waZ2cwkHW4e7zNzvq7hiEackcgvBpmnXZrI1GltPg==
 
 "@types/socket.io-client@^1.4.32":
-  version "1.4.32"
-  resolved "https://registry.yarnpkg.com/@types/socket.io-client/-/socket.io-client-1.4.32.tgz#988a65a0386c274b1c22a55377fab6a30789ac14"
-  integrity sha512-Vs55Kq8F+OWvy1RLA31rT+cAyemzgm0EWNeax6BWF8H7QiiOYMJIdcwSDdm5LVgfEkoepsWkS+40+WNb7BUMbg==
+  version "1.4.36"
+  resolved "https://registry.yarnpkg.com/@types/socket.io-client/-/socket.io-client-1.4.36.tgz#e4f1ca065f84c20939e9850e70222202bd76ff3f"
+  integrity sha512-ZJWjtFBeBy1kRSYpVbeGYTElf6BqPQUkXDlHHD4k/42byCN5Rh027f4yARHCink9sKAkbtGZXEAmR0ZCnc2/Ag==
 
 "@types/source-list-map@*":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@types/source-list-map/-/source-list-map-0.1.2.tgz#0078836063ffaf17412349bba364087e0ac02ec9"
-  integrity sha512-K5K+yml8LTo9bWJI/rECfIPrGgxdpeNbj+d53lwN4QjW1MCwlkhUms+gtdzigTeUyBr09+u8BwOIY3MXvHdcsA==
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@types/source-list-map/-/source-list-map-0.1.6.tgz#164e169dd061795b50b83c19e4d3be09f8d3a454"
+  integrity sha512-5JcVt1u5HDmlXkwOD2nslZVllBBc7HDuOICfiZah2Z0is8M8g+ddAEawbmd3VjedfDHBzxCaXLs07QEmb7y54g==
 
 "@types/webpack-sources@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@types/webpack-sources/-/webpack-sources-0.1.5.tgz#be47c10f783d3d6efe1471ff7f042611bd464a92"
-  integrity sha512-zfvjpp7jiafSmrzJ2/i3LqOyTYTuJ7u1KOXlKgDlvsj9Rr0x7ZiYu5lZbXwobL7lmsRNtPXlBfmaUD8eU2Hu8w==
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@types/webpack-sources/-/webpack-sources-0.1.12.tgz#9beb82c5dc5483c0fb947da1723f4044b07f6204"
+  integrity sha512-+vRVqE3LzMLLVPgZHUeI8k1YmvgEky+MOir5fQhKvFxpB8uZ0CFnGqxkRAmf8jvNhUBQzhuGZpIMNWZDeEyDIA==
   dependencies:
     "@types/node" "*"
     "@types/source-list-map" "*"
