@@ -325,17 +325,18 @@
   dependencies:
     socket.io "2.2.0"
 
-"@nestjs/serve-static@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/serve-static/-/serve-static-1.0.1.tgz#0a4494a927d98c3709ab01739d9380cae631f274"
-  integrity sha512-XAG76ooUSk8EUILl2f56u66/q2I5n8jyEE8j3FwFihtvzMcOQxOyXnhg8Hk/tizRVTExRLFCA7MEijzevxyofw==
+"@nestjs/serve-static@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/serve-static/-/serve-static-1.0.2.tgz#8baa1a20fa39457186be4ec3e29b446d83d3fcb0"
+  integrity sha512-PRTrmytKXGSDYJn8i0I/XiSV01tygh4L0SR5bq1/zxIT5HHK/edmlULKfHeeA2pHQV7YLxMH33al/TPlcn4tXQ==
 
 "@nestjs/testing@^6.0.0":
-  version "6.6.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-6.6.3.tgz#bd219ce283ef689f4f959f9b653290d5cc891c8d"
-  integrity sha512-8NiIvopoLGs4Pjb44XBrEpqxizDf/wf/7TzC/tijDWY9utK4f6UseMGijOcVGpQNvS8FFUFX/UTKJG/LgS0nsw==
+  version "6.11.11"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-6.11.11.tgz#c9858e6516cccf923289919764ed9039376d9b3c"
+  integrity sha512-Mqu4IWZhnLdIFfVfueAFFCm3jPfQoWg+YmDLBsFS2kpab3az5gsRCZQv9R9CCHGa1hHKYWqM1lMcz1IQc70kww==
   dependencies:
     optional "0.1.4"
+    tslib "1.11.1"
 
 "@nestjs/websockets@^6.6.7":
   version "6.6.7"
@@ -4466,6 +4467,11 @@ tsconfig-paths@3.8.0:
     json5 "^1.0.1"
     minimist "^1.2.0"
     strip-bom "^3.0.0"
+
+tslib@1.11.1:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.11.1.tgz#eb15d128827fbee2841549e171f45ed338ac7e35"
+  integrity sha512-aZW88SY8kQbU7gpV19lN24LtXh/yD4ZZg6qieAJDDg+YBsJcSmLGK9QpnUjAKVG/xefmvJGd1WUmfpT/g6AJGA==
 
 tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.10.0"
