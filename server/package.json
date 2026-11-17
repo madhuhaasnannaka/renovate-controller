@@ -29,7 +29,7 @@
     "@types/socket.io": "^2.1.2",
     "node-cron": "^2.0.3",
     "reflect-metadata": "^0.1.12",
-    "rimraf": "^2.6.2",
+    "rimraf": "^6.0.0",
     "rxjs": "^6.3.3",
     "socket.io": "^2.2.0"
   },
